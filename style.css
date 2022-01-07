@@ -6,7 +6,7 @@ h1{
     color:green;
     font-size: 50px;
     margin: 0;
-     padding-left: 20px;      
+     padding-left: 15px;      
 
 }
 section{
@@ -56,49 +56,73 @@ section{
 .ami{
     width: 320px;
     padding: 10px;
-    border: 5px solid gray;
-    margin: 0;
+    border: 5px solid rgb(50, 218, 181);
+    
+    padding-left: 4%;
+    
+    background-color: rgb(191, 166, 231);
     
     
-   
+
    
 }
 .ami img{
     width: 150Px;
     height: 150px;
+    margin-left: 100px;
+    margin-right: auto;
+
+    
 }
 .ami h2{
+          
+
           text-align: center;
-}
+
+        }
+
+
 .tumi{
     width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
+    padding-left: 6%;
+    border: 5px solid rgba(110, 10, 224, 0.774);
     margin: 0;
-   
+    color:lightblue;
+    background-color    :rgb(191, 166, 231);
+
 }
 .amra{
     width: 320px;
     padding: 10px;
-    border: 5px solid gray;
+    border: 5px solid   ;
     margin: 0;
+    color:rgb(182, 149, 149);
+    box-shadow:  rgb(224, 166, 6) ;
+    background-color: grey;
 }
+
 .tumi img{
     width: 150Px;
     height: 150px;
-    border-image: auto;
+
+    margin-left: 100px;
+    margin-right: auto;
+
+
 }
 .amra img{
     width: 150Px;
     height: 150px;
+    margin-left: 90px;
+    margin-right: auto;
     
 }
 .im img{
-    background-image: url(shape-1.png),image-set(200px);
+    
     width: 250px;
     height: 300px;
     padding-top: 100px;
-    padding-left: 100px;
+    padding-left: auto;
 }
 .dd{
     padding-left: 20%;
@@ -108,10 +132,54 @@ section{
    
     padding-top: 40px;
     padding-right: 10%;
+
 }
 .mmo{
     padding-left: 4%;
     margin: auto;
     font-size: 600;
     padding-right: 10%;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+  
+
+
+
+.ll{
+    padding-top: 50px;
+}
+.Ambition-area{
+    display: flexbox;
+    padding-left: 6%;
+    border-radius: 2px;
+    
+
+}
+.tumi h2{
+    text-align: center;
+}
+.amra h2{
+    text-align: center;
+}
+.kk{
+    text-decoration: lightcoral;
+    text-align: right;
+    font-weight: 1400;
+    color: rgb(23, 102, 3);
+    font-size: large;
+
+}
+.gg img{
+    width: 350px;
+    height: 300px;
+    
+    
+    padding-left: 400px;
+    padding-top: 30px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(4, 133, 32);
 }
